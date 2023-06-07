@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StudentResponse.java&apos; to &apos;Item-Reader/src/main/java/com.cognizant.models&apos;&#x0D;&#x0A;- Original project: &apos;spring-rest-service&apos;&#x0D;&#x0A;- Destination element: &apos;Item-Reader/src/main/java/com.cognizant.models&apos;&#x0D;&#x0A;- Original element: &apos;com.infybuzz.app.StudentResponse.java&apos;" description="Copy compilation unit" destination="=Item-Reader/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cognizant.models" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.infybuzz.app{StudentResponse.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1670501524381" units="1" version="1.0"/>
+</session>

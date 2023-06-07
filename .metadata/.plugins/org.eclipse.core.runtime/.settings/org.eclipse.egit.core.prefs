@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\springBatch\\Item-Reader2\\.git;C\:\\springBatch\\Spring-Batch\\.git;C\:\\springBatch\\Spring-Batch\\Spring-Batch\\.git;C\:\\springBatch\\Item-Reader\\.git;
+GitRepositoriesView.GitDirectories.relative=Item-Reader2\\.git;Spring-Batch\\.git;Spring-Batch\\Spring-Batch\\.git;Item-Reader\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

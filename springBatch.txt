@@ -1,0 +1,24 @@
+#####JOB PARAMETERS:-----
+
+To run job again we need to inform spring, its a unique job instance , for that we pass job parameters(key-value pair)
+Run->Run Configurations->Arguments->Now write in program arguments
+run=one(can be anything, run is key)
+this will add entry to params table also
+Now to run again change parameters
+run=two or a=b
+To get unique job parameters: add incrementer and change once arguments
+
+####JOB LISTENERS:-----
+When we want to perform some task when the job starts or completed.
+
+####JOB With REST API:-----
+Using job launcher run configuration params r no longer job params becz we passing job parameters in jobLauncher
+
+####ITEM READER:----
+csv file reader: create folder InputFiles->create student.csv file inside it
+
+file uri can be passed as job parameters: add uri in arguments
+inputFile=C:\\springBatch\\Item-Reader\\InputFiles\\students.csv
+
+converting xml into java object is called as unmarshelling and vice-versa is called marshelling
+

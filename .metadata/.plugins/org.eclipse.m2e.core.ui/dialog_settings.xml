@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Devops CI-CD\hello-world-master"/>
+			<item value="C:\springBatch\Spring-Batch"/>
+			<item value="C:\Users\2063360\Downloads\JDBC-Item-Writer-with-MySQL-Database"/>
+			<item value="C:\springBatch\REST-API-as-Datasource"/>
+			<item value="C:\Users\2063360\Downloads\Create-Flat-File-Item-Reader-with-CSV-File"/>
+			<item value="C:\springBatch\First-Spring-Batch-Job-with-Tasklet-Step"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
